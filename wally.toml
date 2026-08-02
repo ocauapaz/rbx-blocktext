@@ -6,6 +6,8 @@ license = "MIT"
 authors = ["ocauapaz"]
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+repository = "https://github.com/ocauapaz/rbx-blocktext"
+homepage = "https://github.com/ocauapaz/rbx-blocktext"
 # The published package is just the source plus the readmes; everything below is repo-only tooling.
 exclude = [
 	"sourcemap.json",
