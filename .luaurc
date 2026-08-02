@@ -1,0 +1,18 @@
+{
+  "languageMode": "strict",
+  "lint": {
+    "*": true
+  },
+  "lintErrors": false,
+  "globals": [
+    "game",
+    "script",
+    "task",
+    "warn",
+    "CFrame",
+    "Color3",
+    "Enum",
+    "Instance",
+    "Vector3"
+  ]
+}

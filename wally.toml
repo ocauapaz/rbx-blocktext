@@ -1,0 +1,18 @@
+[package]
+name = "ocauapaz/rbx-blocktext"
+description = "Floating 3D text made of springy cubes for Roblox: gradients, rebuild transitions, camera billboarding and touch interaction."
+version = "0.1.0"
+license = "MIT"
+authors = ["ocauapaz"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+# The published package is just the source plus the readmes; everything below is repo-only tooling.
+exclude = [
+	"sourcemap.json",
+	"rokit.toml",
+	"selene.toml",
+	".stylua.toml",
+	".luaurc",
+	"tests",
+	"tests/*",
+]

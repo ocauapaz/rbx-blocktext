@@ -1,0 +1,6 @@
+Packages/
+sourcemap.json
+*.rbxl
+*.rbxlx
+.lune/
+.selene/

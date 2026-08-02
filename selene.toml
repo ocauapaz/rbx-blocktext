@@ -1,0 +1,6 @@
+std = "roblox"
+
+[lints]
+multiple_statements = "allow"
+global_usage = "allow"
+incorrect_standard_library_use = "allow"
